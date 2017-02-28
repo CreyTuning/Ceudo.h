@@ -71,7 +71,8 @@
 #define SL					std::cout<<"\n";
 
 
-
+//FUNCIONES
+/*
 void Bfor(char a[],char b[],char c[]){
 	str
-}
+}*/
