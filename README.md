@@ -18,7 +18,10 @@
 
 ## Declaracion y asignacion de variables
 
-	La declaracion de variables siempre debe concluir con un ";", existe el operador "es" que sirve para asignarle un valor a la variable en el momento de su declaracion o posterior mente, el pude ser sustituido facilmente por u "=" sin ningun problema. 
+	La declaracion de variables siempre debe concluir con un ";"
+	existe el operador "es" que sirve para asignarle un valor a la
+	variable en el momento de su declaracion o posterior mente, el
+	pude ser sustituido facilmente por u "=" sin ningun problema. 
 	
 	Enteros
 		entero x es 5;
@@ -41,7 +44,12 @@
 		cadena apellido de () es "Romero";
 		cadena pedro de () es "pedro", juan de (), daniel de (25);
 
-		**El operador "de (cantidad)" se le agrega a las cadenas en el momento de la declaracion y resive la cantidad de caracteres que puede almacenar dicha cadena, si no se agrega dicho operando, la variable sera automaticamente convertida a una tipo caracter, la cual puede almacenar solo un carater**
+		**El operador "de (cantidad)" se le agrega a las cadenas en
+		el momento de la declaracion y resive la cantidad de
+		caracteres que puede almacenar dicha cadena, si no se
+		agrega dicho operando, la variable sera automaticamente
+		convertida a una tipo caracter, la cual puede almacenar
+		solo un carater**
 
 ## Operadores de asignacion y comparación
 
