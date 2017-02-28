@@ -1,10 +1,6 @@
 #include <stdio.h>
-//#include <conio.h>
-//#include <windows.h>
 #include <string.h>
 #include <iostream>
-
-//void FScolor(char x[]);
 
 //ESTRUCTURAS
 #define inicio int main(int argc,char *argv[]){
@@ -31,12 +27,11 @@
 #define igual ==
 #define mayor >
 #define menor <
-
-//ACCIONES
-//#define parar getch();
-
-//DECORAR
-//#define Scolor(x) FScolor(x);
+#define menorigual <=
+#define mayorigual >=
+#define diferente !=
+#define VERDADERO TRUE
+#define FALSO FALSE
 
 //CONDICIONALES
 #define si(x) if(x)
@@ -46,24 +41,3 @@
 #define fsi }
 #define fsino }
 #define fsino }
-
-//FUNCIONES
-/*void FScolor(char x[])
-{
-	if (strcmp(x,"") == 0 || strcmp(x,"normal") == 0)
-	{
-		system ("color");
-	}
-
-	else if (strcmp(x,"hacker") == 0)
-	{
-		system ("color 0a");
-	}
-	else
-	{
-		char command[99] = "color ";
-		strcat(command, x);
-		system(command);
-		puts(command);
-	}
-}*/
