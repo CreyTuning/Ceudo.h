@@ -64,6 +64,14 @@
 //BUCLES
 #define mientras(x)			while(x)
 #define fmientras			}
+#define para(x,y,z)			for(x;y;z)
+#define fpara				}
 
 //DECORACION
 #define SL					std::cout<<"\n";
+
+
+
+void Bfor(char a[],char b[],char c[]){
+	str
+}
