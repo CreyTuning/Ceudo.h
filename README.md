@@ -1,4 +1,4 @@
-# ceudo.h
+# Ceudo.h
 ![Alt text](https://github.com/CreyTuning/ceudo/blob/Arreglos/recursos/imagenes/img1.jpg?raw=true "Codigo facil y legible")
 
 
