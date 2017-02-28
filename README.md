@@ -1,5 +1,5 @@
 # ceudo.h
-![Alt text](https://github.com/CreyTuning/ceudo/recursos/imagenes/img.jpg?raw=true "Codigo facil y legible")
+![Alt text](https://github.com/CreyTuning/ceudo/recursos/imagenes/img1.jpg?raw=true "Codigo facil y legible")
 
 
 ## Estructura basica de un programa
@@ -14,7 +14,7 @@
 
 	entero		|	Numeros enteros positivos y negativos
 	reales		|	Numeros reales con decimales positivos y negativos
-	logico		|	Valor logico que puede ser 0 ó 1
+	logico		|	Valor logico que puede ser 0 Ã³ 1
 	caracter	|	Capaz de almacenar un unico caracter
 	cadena		|	Almacena una cadena de cartares
 
@@ -50,7 +50,7 @@ declaracion y resive la cantidad de caracteres que puede almacenar dicha cadena,
 si no se agrega dicho operando, la variable sera automaticamente convertida a una
 tipo caracter, la cual puede almacenar solo un carater**
 
-## Operadores de asignacion y comparación
+## Operadores de asignacion y comparaciÃ³n
 
 	=	|	es
 	> 	|	mayor
