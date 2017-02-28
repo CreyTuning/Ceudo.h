@@ -1,5 +1,5 @@
 # ceudo.h
-![Alt text](https://github.com/CreyTuning/ceudo/recursos/imagenes/img1.jpg?raw=true "Codigo facil y legible")
+![Alt text](https://github.com/CreyTuning/ceudo/blob/Arreglos/recursos/imagenes/img1.jpg?raw=true "Codigo facil y legible")
 
 
 ## Estructura basica de un programa
